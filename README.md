@@ -34,4 +34,4 @@ Pokémon GO
 
 We are team Yellow Six on Pokémon GO!
 
-![Yellow Six Logo](yellowsix-logo.jpg)
+![Yellow Six Logo](images/yellowsix-logo.jpg)
