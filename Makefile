@@ -4,6 +4,6 @@ deps:
 	apt-get install -y markdownlint
 
 lint:
-	mdl *.md
+	mdl -s .mdl-style.rb $(shell find . -name "*.md")
 
 .PHONY: ci deps lint

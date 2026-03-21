@@ -11,6 +11,7 @@
       BUG-->PSYCHIC;
       BUG-->DARK;
 ```
+
 ## Dark
 
 ```mermaid
@@ -21,6 +22,7 @@
       DARK-->PSYCHIC;
       DARK-->GHOST;
 ```
+
 ## Dragon
 
 ```mermaid
@@ -29,6 +31,7 @@
       FAIRY-->DRAGON;
       DRAGON-->DRAGON;
 ```
+
 ## Electric
 
 ```mermaid
@@ -37,6 +40,7 @@
       ELECTRIC-->WATER;
       ELECTRIC-->FLYING;
 ```
+
 ## Fairy
 
 ```mermaid
@@ -47,6 +51,7 @@
       FAIRY-->DRAGON;
       FAIRY-->DARK;
 ```
+
 ## Fighting
 
 ```mermaid
@@ -60,6 +65,7 @@
       FIGHTING-->DARK;
       FIGHTING-->STEEL;
 ```
+
 ## Fire
 
 ```mermaid
@@ -72,6 +78,7 @@
       FIRE-->BUG;
       FIRE-->STEEL;
 ```
+
 ## Flying
 
 ```mermaid
@@ -83,6 +90,7 @@
       FLYING-->FIGHTING;
       FLYING-->BUG;
 ```
+
 ## Ghost
 
 ```mermaid
@@ -91,6 +99,7 @@
       GHOST-->GHOST;
       GHOST-->PSYCHIC;
 ```
+
 ## Grass
 
 ```mermaid
@@ -104,6 +113,7 @@
       GRASS-->GROUND;
       GRASS-->ROCK;
 ```
+
 ## Ground
 
 ```mermaid
@@ -117,6 +127,7 @@
       GROUND-->ROCK;
       GROUND-->STEEL;
 ```
+
 ## Ice
 
 ```mermaid
@@ -130,12 +141,14 @@
       ICE-->FLYING;
       ICE-->DRAGON;
 ```
+
 ## Normal
 
 ```mermaid
   graph TD;
       FIGHTING-->NORMAL;
 ```
+
 ## Poison
 
 ```mermaid
@@ -145,6 +158,7 @@
       POISON-->GRASS;
       POISON-->FAIRY;
 ```
+
 ## Psychic
 
 ```mermaid
@@ -155,6 +169,7 @@
       PSYCHIC-->FIGHTING;
       PSYCHIC-->POISON;
 ```
+
 ## Rock
 
 ```mermaid
@@ -169,6 +184,7 @@
       ROCK-->FLYING;
       ROCK-->BUG;
 ```
+
 ## Steel
 
 ```mermaid
@@ -180,6 +196,7 @@
       STEEL-->ROCK;
       STEEL-->FAIRY;
 ```
+
 ## Water
 
 ```mermaid
