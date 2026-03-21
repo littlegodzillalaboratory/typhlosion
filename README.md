@@ -36,6 +36,10 @@ We are team Yellow Six on Pokémon GO!
 
 ![Yellow Six Logo](images/yellowsix-logo.jpg)
 
+### Psyduck123#
+
+![Battle Hardened](images/psyduck123#/834-battles.png) ![Dialga Raid](images/psyduck123#/vs-dialga.png)
+
 ## Pokémon Comic
 
 I am Cyndaquil by G10 Media.
