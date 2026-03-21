@@ -1,7 +1,6 @@
 ![Avatar](avatar.jpg)
 
 [![Build Status](https://github.com/littlegodzillalaboratory/typhlosion/workflows/CI/badge.svg)](https://github.com/littlegodzillalaboratory/typhlosion/actions?query=workflow%3ACI)
-<br/>
 
 # Typhlosion
 
