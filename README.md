@@ -38,7 +38,7 @@ We are team Yellow Six on Pokémon GO!
 
 ### Psyduck123#
 
-![Battle Hardened](images/psyduck123#/834-battles.png) ![Dialga Raid](images/psyduck123#/vs-dialga.png)
+![Battle Hardened](images/psyduck123%23/834-battles.png) ![Dialga Raid](images/psyduck123%23/vs-dialga.png)
 
 ## Pokémon Comic
 
