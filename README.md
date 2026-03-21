@@ -4,7 +4,7 @@
 
 # Typhlosion
 
-Typhlosion is a collection of random Pokémon stuffs our family play with.
+Typhlosion is a collection of random Pokémon stuffs our team plays with.
 
 ## Pokémon GO
 
