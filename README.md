@@ -36,6 +36,6 @@ We are team Yellow Six on Pokémon GO!
 
 ## Pokémon Comic
 
-The Little Cyndaquil
+I'm Cyndaquil.
 
-![Cyndaquil Comic](pokemon-comics/cyndaquil.png)
+![Cyndaquil Comic](images/pokemon-comics/cyndaquil.png)
