@@ -36,7 +36,7 @@ We are team Yellow Six on Pokémon GO!
 
 ![Yellow Six Logo](images/yellowsix-logo.jpg)
 
-### Psyduck123#
+### The Legend of Psyduck123#
 
 ![Battle Hardened](images/psyduck123%23/834-battles.png) ![Dialga Raid](images/psyduck123%23/vs-dialga.png)
 
