@@ -1,12 +1,10 @@
-<img align="right" src="https://raw.github.com/cliffano/typhlosion/master/avatar.jpg" alt="Avatar"/>
+![Avatar](avatar.jpg)
 
-Typhlosion
-----------
+# Typhlosion
 
-Typhlosion is a collection of random Pokémon stuffs my son and I dabble with.
+Typhlosion is a collection of random Pokémon stuffs our family play with.
 
-Pokémon GO
-----------
+## Pokémon GO
 
 ### Type Charts
 
@@ -35,3 +33,9 @@ Pokémon GO
 We are team Yellow Six on Pokémon GO!
 
 ![Yellow Six Logo](images/yellowsix-logo.jpg)
+
+## Pokémon Comic
+
+The Little Cyndaquil
+
+![Cyndaquil Comic](pokemon-comics/cyndaquil.png)
