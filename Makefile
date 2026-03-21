@@ -1,6 +1,6 @@
 ci: deps lint
 
-deps-extra-apt:
+deps:
 	apt-get install -y markdownlint
 
 lint:
